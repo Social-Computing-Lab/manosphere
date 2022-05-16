@@ -7,3 +7,5 @@ Extract data from dumps in parallel using multiprocessing. Script is configured 
 Removing bot accounts data from the extracted dataset - remove_bots_from_data.py\
 Get the subscriber count for subreddits using reddit api - subscriber_count_extraction.py\
 Get the subscriber count for subreddits from frontpagemetrics website - subscriber_count_frontpage.py
+
+Notebooks folder has the jupyter notebooks created for analyzing the data
